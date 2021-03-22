@@ -6,7 +6,7 @@ class About extends React.Component {
     return (
       <Layout location={this.props.location}>
           <div>
-            <h1><b>Like share and subcribe</b></h1>
+            <h1><b>Like share and subcribe. Meow Meow Meow</b></h1>
             <h2>About Page with some information about the amazing people that built this website</h2>
           </div>
       </Layout>
